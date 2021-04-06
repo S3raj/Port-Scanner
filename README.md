@@ -7,7 +7,6 @@ Ports are standardized across all network-connected devices, with each port assi
 
 --DIFFERENT PORT NUMBERS--
 There are 65,535 possible port numbers, although not all are in common use. Some of the most commonly used ports, along with their associated networking protocol, are:
-
 Ports 20 and 21: File Transfer Protocol (FTP). FTP is for transferring files between a client and a server.
 Port 22: Secure Shell (SSH). SSH is one of many tunneling protocols that create secure network connections.
 Port 25: Simple Mail Transfer Protocol (SMTP). SMTP is used for email.
